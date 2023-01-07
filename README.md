@@ -1,2 +1,2 @@
 # thisscpdoesnotexist.github.io
-Generating SCP articles, including images.
+Fine-tuning GPT-3 for generating SCP articles. Images also generated.
