@@ -1,7 +1,7 @@
 # This SCP Does Not Exist 
 (Click [**HERE**](https://lucmaki.github.io/this-scp-does-not-exist/) to check out the demo website)
 
-##TLDR
+## TLDR
 Fine-tuning GPT-3 for generating SCP articles.
 Generating associated images through Stable Diffusion.
 Building web-pages from results.
@@ -13,10 +13,10 @@ Building web-pages from results.
 -**HTML Building**: pages with the classical SCP article look can be generated from the tabular SCP data.
 -**Bulk Features**: articles, images and htmls can be generated in bulk through custom classes.
 
-##What is SCP?
+## What is SCP?
 The SCP Foundation is an online community who roleplays as a secret organization. They publish fictional top secret documents (often horror themed), describing the contaiment of supernatural creatures, objects or phenomenon. Thousands of such articles have been published, with very creative supernatural concepts and high quality writing.
 
-##Why this project?
+## Why this project?
 SCP's unique horror style and format makes for a unique challenge for creative text generation. It's large number of quality fiction makes for a good training set.
 
 I wanted an AI for brainstorming new ideas... but an issue would be that it would give full SCP articles with no control. This is why I developed it in a way to generate articles sections by section. For example: the article title may be generated, or it may be provided by the user to let the AI generate an article around that idea. This modular approach gives high control.
