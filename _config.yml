@@ -5,7 +5,7 @@ defaults:
       path: _scps
     values:
       scp: "0"
-	  permalink: /scps/:scp/
+      permalink: /scps/:scp/
   -
 
 include: [_scps]
