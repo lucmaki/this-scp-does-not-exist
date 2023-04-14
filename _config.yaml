@@ -1,0 +1,10 @@
+defaults:
+  -
+    scope:
+      type: scp
+      path: _scps
+    values:
+      is_scp: true
+      layout: scp
+	  
+include: [_scps]
