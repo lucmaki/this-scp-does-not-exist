@@ -1,4 +1,5 @@
-# This SCP Does Not Exist (demo website [**here**](https://lucmaki.github.io/this-scp-does-not-exist/))
+# This SCP Does Not Exist 
+(Click [**HERE**](https://lucmaki.github.io/this-scp-does-not-exist/) to check out the demo website)
 
 ##TLDR
 Fine-tuning GPT-3 for generating SCP articles.
