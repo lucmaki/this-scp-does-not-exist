@@ -1,7 +1,7 @@
 # This SCP Does Not Exist 
 (Click [**HERE**](https://lucmaki.github.io/this-scp-does-not-exist/) to check out the demo website)
 
-![Cover image](/readme_img.png)
+![Cover image](/readme-img.png)
 
 ## TLDR
 Fine-tuning GPT-3 for generating SCP articles.
