@@ -7,11 +7,11 @@ Generating associated images through Stable Diffusion.
 Building web-pages from results.
 
 ## Features
--**Tabular SCP Article Generation**: SCP articles are generated section by section, with a consistent format that is stored and managed through tables.
--**Decoupled Generation**: Article sections are generated seperately. This allows retrying generations by article section, or human input for one section to guide the rest of the generation for other sections.
--**Image Generation**: image prompts are parsed from the article, then generated through a Stable Diffusion model.
--**HTML Building**: pages with the classical SCP article look can be generated from the tabular SCP data.
--**Bulk Features**: articles, images and htmls can be generated in bulk through custom classes.
+- **Tabular SCP Article Generation**: SCP articles are generated section by section, with a consistent format that is stored and managed through tables.
+- **Decoupled Generation**: Article sections are generated seperately. This allows retrying generations by article section, or human input for one section to guide the rest of the generation for other sections.
+- **Image Generation**: image prompts are parsed from the article, then generated through a Stable Diffusion model.
+- **HTML Building**: pages with the classical SCP article look can be generated from the tabular SCP data.
+- **Bulk Features**: articles, images and htmls can be generated in bulk through custom classes.
 
 ## What is SCP?
 The SCP Foundation is an online community who roleplays as a secret organization. They publish fictional top secret documents (often horror themed), describing the contaiment of supernatural creatures, objects or phenomenon. Thousands of such articles have been published, with very creative supernatural concepts and high quality writing.
