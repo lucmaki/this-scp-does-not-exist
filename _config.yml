@@ -3,10 +3,9 @@ defaults:
     scope:
       type: scps
       path: _scps
-	  
     values:
-      scp: 0
-	  permalink: /scps/:scp
+      scp: "0"
+	  permalink: /scps/:scp/
   -
 
 include: [_scps]
