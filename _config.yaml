@@ -1,10 +1,12 @@
 defaults:
   -
     scope:
-      type: scp
+      type: scps
       path: _scps
-    values:
-      is_scp: true
-      layout: scp
 	  
+    values:
+      scp: 0
+	  permalink: /scps/:scp
+  -
+
 include: [_scps]
