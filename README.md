@@ -16,10 +16,10 @@ Building web-pages from results.
 - **Bulk Features**: articles, images and htmls can be generated in bulk through custom classes.
 
 ## What is SCP?
-The [**SCP Wiki**](https://scp-wiki.wikidot.com/scp-series) is an online community who writes fiction about a secret organization: the SCP Foundation. They publish stories in the format of top secret documents (often horror themed), describing the containment of supernatural creatures, objects or phenomenon; also known as SCPs. They have published thousands of SCP articles; with a creative range of supernatural concepts and maintain high quality writing through strict moderation.
+The [**SCP Wiki**](https://scp-wiki.wikidot.com/scp-series) is an online community that writes fiction, often of the horror variety.They publish stories in the format of top secret documents, describing the containment of supernatural creatures, objects or phenomenon; also known as SCPs. They have published thousands of SCP articles; with a creative range of supernatural concepts and maintain high quality writing through strict moderation.
 
 ## Why this project?
-SCP's unique horror style and clinical format makes for a unique challenge for creative text generation. Its vast quantity of quality fiction and creative concepts makes for a good training set.
+SCP's unique horror style and clinical format, alongside its eery images makes for an interesting challenge for multimodal generation. Its vast quantity of quality fiction and creative concepts makes for a good training set.  
 
 I wanted an AI for brainstorming new ideas... but an issue would be that it would give full SCP articles with no control. This is why I developed it in a way to generate articles sections by section. For example: the article title may be generated, or it may be provided by the user to let the AI generate an article around that idea. This modular approach gives high control.
 
