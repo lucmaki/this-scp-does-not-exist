@@ -1,5 +1,5 @@
 # This SCP Does Not Exist 
-## (Click [**HERE**](https://lucmaki.github.io/this-scp-does-not-exist/) to check out the demo website)
+## (Click [**HERE**](https://this-scp-does-not-exist.netlify.app) to check out the demo website)
 
 ![Cover image](/readme-img.png)
 
